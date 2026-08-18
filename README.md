@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-The **Amazon Sales Analysis Dashboard** is an interactive Excel-based data analytics project designed to analyze sales performance, identify business trends, and generate meaningful insights from Amazon sales data.
+The **Amazon Sales Analysis Dashboard** is an Excel-based data analytics project designed to analyze sales performance, identify business trends, and generate meaningful insights from Amazon sales data.
 
 The dashboard uses **Pivot Tables, Pivot Charts, Slicers, KPI Cards, and Timeline filters** to provide an interactive view of sales performance.
 
