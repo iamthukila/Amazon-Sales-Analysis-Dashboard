@@ -90,6 +90,10 @@ The analysis helps identify:
 
 ---
 
+## 📊 Dashboard Preview
+
+![Amazon Sales Dashboard](AMAZON%20SALES%20DASHBOARD.png)
+
 ## 👩‍💻 Author
 
 **Thukila G**
